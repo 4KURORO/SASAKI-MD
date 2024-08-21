@@ -1,11 +1,11 @@
 {
 "scripts": {
-"start": "pm2 start talkdrove.js --deep-monitoring --attach --name X-BYTE",
-"stop": "pm2 stop X-BYTE",
-"restart": "pm2 restart X-BYTE"
+"start": "pm2 start talkdrove.js --deep-monitoring --attach --name SASAKI-MD",
+"stop": "pm2 stop SASAKI-MD",
+"restart": "pm2 restart SASAKI-MD"
 },
 "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/HyHamza/Baileys.git",
+        "@whiskeysockets/baileys": "git+https://github.com/Alp24ni/Baileys.git",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@shineiichijo/marika": "^2.0.2", 
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
