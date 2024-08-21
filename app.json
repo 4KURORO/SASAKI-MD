@@ -1,13 +1,13 @@
 {
-  "name": "X-BYTE",
-  "description": "X-BYTE buttoned version of Byte.",
-  "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/XByte-logo.png",
-  "keywords": ["TalkDrove", "bot", "whatsapp bot", "multi device", "X-BYTE"],
+  "name": "SASAKI-MD",
+  "description": "SASAKI-MD buttoned version of SASAKI.",
+  "logo": "https://raw.githubusercontent.com/Alp24ni/Alp24ni/main/Images/SASAKI-MD-logo.png",
+  "keywords": ["TalkDrove", "bot", "whatsapp bot", "multi device", "SASAKI-MD"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-            "description": "Paste your session ID here (Make sure starts with Byte;;;) or leave empty if deploying through Creds.json",
+            "description": "Paste your session ID here (Make sure starts with Sasaki;;;) or leave empty if deploying through Creds.json",
             "required": true,
             "value": ""
         },
@@ -54,7 +54,7 @@
     "OWNER_NUMBER": {
             "description": "Put here your number without +",
             "required": true,
-            "value": "92307xxxxxxx"
+            "value": "22176xxxxxxx"
         }
     },
     "buildpacks": [
