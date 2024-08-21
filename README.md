@@ -8,7 +8,7 @@
 <a href="https://github.com/Alp24ni?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Alp24ni?label=Followers&style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Alp24ni/SASAKI-MD?&style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Alp24ni/SASAKI-MD?style=social"></a>
-<a href="https://github.com/Alp24ni/SASAKI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD_BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Alp24ni/SASAKI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD?label=Watching&style=social"></a>
 </p>
 
 
