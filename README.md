@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://telegra.ph/file/12e386ac6247868c95ae9.jpg" />
+<img src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg" />
 <p/>
 <p align="center">
 <a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/SASAKI Bot-black?style=for-the-badge&logo=whatsApp"></a>
