@@ -4,7 +4,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center"> SASAKI-MD </h1> 
+[![SASAKI TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+Arthur Sasaki+member+of+Team sasaki project;)](https://github.com/Alp24ni)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <img src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg" />
 <p/>
