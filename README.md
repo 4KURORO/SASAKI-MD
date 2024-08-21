@@ -22,9 +22,11 @@
 <a href="https://github.com/Alp24ni/SASAKI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD?label=Watching&style=social"></a>
 </p>
 
-
 <h3 align="center">SASAKI WHATSAPP BOT</h3>
-## WHATSAPP CHANNEL
-
-[![TalkDrove](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9)
- 
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/SASAKI-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/221768649590"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<p/>
