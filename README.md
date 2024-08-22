@@ -3,7 +3,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h1 align="center"> SASAKI-MD </h1> 
+<h1 align="center"> SASAKI-MD </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+SASAKI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAMS+SASAKI" alt="Typing SVG" /></a>
+  </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
@@ -11,7 +14,10 @@
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+  
+<p align="center"> 
+<up A simple WhatsApp User Bot Coded By Akashi and Arthur </u>
+</p>
 <p align="center">
 <a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/SASAKI Bot-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
@@ -30,6 +36,3 @@
 <p align="center">
 <a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/SASAKI-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/221768649590"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-url=https://github.com/Alp24ni/SASAKI-MD/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="TEAMS SASAKI Tools" src="https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/@SSK-FAMILYCAMPAGNY" target="_blank"
