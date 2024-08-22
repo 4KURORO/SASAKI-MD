@@ -42,7 +42,7 @@
 ### 2. GET SESSION_ID BY TEAMS SASAKI
 
 ### QR CODE.
-<a href='https://web-qr-q4sk.onrender.com/' target="_blank"><img alt='QR-CODE' src='https://img.shields.io/badge/QR-CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://web-qr-64jj.onrender.com/' target="_blank"><img alt='QR-CODE' src='https://img.shields.io/badge/QR-CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 ### PAIRING CODE.
