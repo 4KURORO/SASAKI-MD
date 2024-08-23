@@ -10,7 +10,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<img src="https://telegra.ph/file/acf07e2ad76c2c142c3b9.jpg" />
+<img src="https://telegra.ph/file/69a6ade6cf290c7480ce4.jpg" />
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
